@@ -1,6 +1,6 @@
 <?php
 $host = 'localhost';
-$dbname = 'studentcoursemanager_db';
+$dbname = 'student_course_manager';
 $username = 'root';
 $password = '';
 
